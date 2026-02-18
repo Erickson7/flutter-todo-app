@@ -24,14 +24,15 @@
 ## Screenshots of the application
 
 ### Main Screen
-![Main Screen](screenshot/Screenshot 2026-02-16 174557.png)
+![Main Screen](screenshots/Screenshot 2026-02-16 174557.png)
 
 ### Adding a Task
-![Add Task](screenshot/Screenshot from 2026-02-18 19-19-23.png)
+![Add Task](screenshots/Screenshot from 2026-02-18 19-19-23.png)
 
 
 ### Completing a Task
-![Complete Task](screenshot/Screenshot(4).png)
+![Complete Task](screenshots/Screenshot(4).png)
 
 ### Deleting a Task
-![Delete Task](screenshot/Screenshot from 2026-02-18 19-02-15.png)
+
+![Delete Task](screenshots/Screenshot from 2026-02-18 19-02-15.png)
